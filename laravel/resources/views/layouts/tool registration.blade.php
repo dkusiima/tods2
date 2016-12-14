@@ -2,7 +2,7 @@
 @section('title')
     Tool Registration
 @endsection
-
+@include('includes.sidebar')
 @section('content')
     <div class="row centered-form">
         <div class="col-xs-12 col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
@@ -63,7 +63,7 @@
                                 </table>
 
                                 <div class="form-group">
-                                    <input type="textbox" name="Comment" class="form-control input-sm" placeholder="Comments">
+                                    <input type="text" name="Comment" class="form-control input-sm" placeholder="Comments">
                                 </div>
 
 

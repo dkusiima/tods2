@@ -1,5 +1,24 @@
+<style>
+    #header {
+        font-family: "Tahoma", Geneva, SansSerif;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        height:10%;
+        width: 100%;
+        background: #444444;
+        line-height: 60px;
+        position:absolute;
+        left:0; right: 0;
+        margin:0;
+        padding: 0;
+
+    }
+
+</style>
+
 <header>
-    <nav class="navbar navbar-default">
+    <nav id="header" class="navbar navbar-default">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
