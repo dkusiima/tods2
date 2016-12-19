@@ -42,3 +42,7 @@ Route::get('tool pickup', function () {
 Route::get('tool registration', function () {
     return view('layouts.tool registration');
 });
+
+Route::get('tods', function () {
+    return view('admin_template');
+});

@@ -6,7 +6,7 @@
 @section('content')
 
     <div id="sidebar" class="col-md-4">
-        @include('includes.sidebar')
+        @include('includes.old_includes.sidebar')
     </div>
     <div class="row centered-form col-md-8">
         <div class="col-xs-12 col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">

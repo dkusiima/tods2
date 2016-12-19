@@ -4,7 +4,7 @@
     Welcome!
 @endsection
 
-@include('includes.sidebar')
+@include('includes.old_includes.sidebar')
 
 @section('content')
     <div class="row centered-form">
