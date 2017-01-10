@@ -46,3 +46,5 @@ Route::get('tool registration', function () {
 Route::get('tods', function () {
     return view('admin_template');
 });
+
+Route::get('test', 'TestController@index');
