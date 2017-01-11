@@ -27,7 +27,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="/bower_components/AdminLTE/index2.html"><b>TODS</b>SYSTEM</a>
+        <a href="home"><b>TODS</b>SYSTEM</a>
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">

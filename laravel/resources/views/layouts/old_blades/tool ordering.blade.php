@@ -3,7 +3,7 @@
     Print Orders
 @endsection
 
-@include('includes.old_includes.sidebar')
+@include('includes.sidebar')
 
 @section('content')
     <div class="row centered-form">

@@ -19,32 +19,32 @@ Route::get('registration', function () {
     return view('layouts.registration');
 });
 
-Route::get('print orders', function () {
+Route::get('print-orders', function () {
     return view('layouts.print orders');
 });
 
-Route::get('print order deliveries', function () {
+Route::get('print-order-deliveries', function () {
     return view('layouts.print order deliveries');
 });
 
-Route::get('tool distribution', function () {
+Route::get('tool-distribution', function () {
     return view('layouts.tool distribution');
 });
 
-Route::get('tool ordering', function () {
-    return view('layouts.tool ordering');
+Route::get('tool-ordering', function () {
+    return view('layouts.tool order');
 });
 
-Route::get('tool pickup', function () {
+Route::get('tool-pickup', function () {
     return view('layouts.tool pickup');
 });
 
-Route::get('tool registration', function () {
+Route::get('tool-registration', function () {
     return view('layouts.tool registration');
 });
 
-Route::get('tods', function () {
-    return view('admin_template');
+Route::get('home', function () {
+    return view('layouts.master');
 });
 
 Route::get('test', 'TestController@index');
