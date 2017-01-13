@@ -44,13 +44,14 @@
                     <li><a href="tool-pickup"><i class="fa fa-circle-o text-green"></i><span>Tool Pickup</span></a></li>
                     <li><a href="tool-registration"><i class="fa fa-circle-o text-purple"></i><span>Tool Registration</span></a></li>
                 </ul>
-            </li> <li class="treeview">
+            </li>
+            <li class="treeview">
                 <a href="#">
                     <i class="fa fa-pie-chart"></i>
                     <span>REPORTS</span>
                     <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
+                         <i class="fa fa-angle-left pull-right"></i>
+                    </span>
                 </a>
                 <ul class="treeview-menu">
                     <li><a href="#"><i class="fa fa-circle-o"></i>Delivery Report</a></li>
@@ -59,8 +60,36 @@
                     <li><a href="#"><i class="fa fa-circle-o"></i>Stock Levels</a></li>
                 </ul>
             </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-users"></i>
+                    <span>USERS</span>
+                    <span class="pull-right-container">
+                         <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a href="registration"><i class="fa fa-circle-o"></i>Add User</a></li>
+                    <li><a href="#"><i class="fa fa-circle-o"></i>View Users</a></li>
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-th"></i>
+                    <span>CONFIGURATIONS</span>
+                    <span class="pull-right-container">
+                         <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a href="#"><i class="fa fa-circle-o"></i>System</a></li>
+                    <li><a href="#"><i class="fa fa-circle-o"></i>Roles</a></li>
+                    <li><a href="#"><i class="fa fa-circle-o"></i>Reports</a></li>
+                    <li><a href="#"><i class="fa fa-circle-o"></i>Others</a></li>
+                </ul>
+            </li>
             <li> <a href="#"><i class="fa fa-envelope"></i> <span>CONTACT US</span></a></li>
-            <li> <a href="/"><i class="fa fa-share"></i> <span>Logout</span></a></li>
+            <!--<li> <a href="/"><i class="fa fa-share"></i> <span>Logout</span></a></li>-->
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->
