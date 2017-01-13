@@ -396,7 +396,7 @@
       <option name="presentableId" value="Default" />
       <updated>1481731578036</updated>
       <workItem from="1481731579495" duration="8846000" />
-      <workItem from="1484120490446" duration="10066000" />
+      <workItem from="1484120490446" duration="10074000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'developer1' of https://github.com/dkusiima/tods2 into develop&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;Added Header, Sidebar, Footer as well as changes in other files like routes.">
       <created>1484124570990</created>
@@ -426,11 +426,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484301025852</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/dkusiima/tods2 into develop&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;laravel/resources/views/layouts/tool pickup.blade.php&#10;git ignor">
+      <created>1484301052118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1484301052118</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18912000" />
+    <option name="totallyTimeSpent" value="18920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
