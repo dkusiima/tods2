@@ -48,3 +48,5 @@ Route::get('home', function () {
 });
 
 Route::get('test', 'TestController@index');
+
+//Route::get('users', 'UsersController@index');
