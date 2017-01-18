@@ -47,4 +47,9 @@ Route::get('home', function () {
     return view('layouts.master');
 });
 
+Route::get('registered-user', function(){
+    $user = app\register::find(1);
+    print_r($user);
+});
+
 Route::get('test', 'TestController@index');
